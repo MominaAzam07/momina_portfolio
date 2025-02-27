@@ -57,10 +57,11 @@ Once everything is set up, you can fill out the contact form, and messages will 
 - Include more projects and case studies
 
 ## 🖼 Screenshots
-![Screenshot 1](./contact_ss)
-![Screenshot 2](./screenshots/image2.png)
-![Screenshot 3](./screenshots/image3.png)
-![Screenshot 4](./screenshots/image4.png)
+![image](https://github.com/user-attachments/assets/b739cb2d-2856-452a-855e-73e0e3a1fe81)
+
+![image](https://github.com/user-attachments/assets/b3a1cc59-5e8a-4f7d-912d-abb6e5f26a01)
+![image](https://github.com/user-attachments/assets/15a29345-5a7a-461c-b219-6468257491ed)
+![image](https://github.com/user-attachments/assets/75399e5e-698c-48a8-8bbc-506d40127937)
 
 ---
 
