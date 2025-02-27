@@ -16,12 +16,12 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ## 🛠 Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/MominaAzam07/3d-animated-portfolio-completed.git
+git clone https://github.com/MominaAzam07/momina_portfolio.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd 3d-animated-portfolio-completed
+cd momina_portfolio
 ```
 
 3. Install dependencies:
