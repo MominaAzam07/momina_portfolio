@@ -12,7 +12,7 @@ const Speech = () => {
         <TypeAnimation
           sequence={[
             1000,
-            "A highly skilled Full Stack Developer who creates efficient and innovative web solutions.",
+            "Highly skilled Developer who creates efficient and innovative web solutions.",
             1000,
             "Dedicated, detail-oriented, and committed to delivering high-quality results for every project. ",
             1000,
