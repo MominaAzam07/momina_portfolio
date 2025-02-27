@@ -145,7 +145,7 @@ const Hero = () => {
 Full Stack Developer        </motion.div>
         {/* CONTACT BUTTON */}
         <motion.a
-          href="/#contact"
+          
           className="contactLink"
           animate={{
             x: [200, 0],
@@ -154,6 +154,7 @@ Full Stack Developer        </motion.div>
           transition={{
             duration: 2,
           }}
+          href="#contact"
         >
           <motion.div
             className="contactButton"
