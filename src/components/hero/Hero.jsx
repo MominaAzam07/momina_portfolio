@@ -68,6 +68,7 @@ const Hero = () => {
             <motion.img variants={awardVariants} src="/award4.png" alt="" />
 
           </motion.div>
+          
         </motion.div>
         {/* SCROLL SVG */}
         <motion.a
